@@ -1,0 +1,26 @@
+{
+  "name": "json-resume",
+  "version": "0.1.0",
+  "description": "My JSON resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reubenkcoutinho/json-resume.git"
+  },
+  "keywords": [
+    "resume",
+    "json"
+  ],
+  "author": "Reuben K. Coutinho",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/reubenkcoutinho/json-resume/issues"
+  },
+  "homepage": "https://github.com/reubenkcoutinho/json-resume#readme",
+  "dependencies": {
+    "resume-schema": "0.0.16"
+  }
+}
