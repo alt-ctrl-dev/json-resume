@@ -1,33 +1,59 @@
 {
   "basics": {
-    "name": "Reuben Keith Coutinho",
-    "label": "Programmer",
-    "picture": "",
+    "name": "Reuben K. Coutinho",
+    "label": "Software Engineer",
+    "picture": "http://2.gravatar.com/avatar/2bd15d9baf83ce5760cf21b0d55f81bb?size=500",
     "email": "reuben.coutinho@gmail.com",
-    "phone": "(912) 555-4321",
-    "website": "http://richardhendricks.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "phone": "",
+    "summary":"I am a self-taught, driven and self-motivated volunteering software developer with a strong background in web and mobile technology. I am a Mixed/Augmented/Virtual Reality enthusiast and a postgraduate from Queensland University of Technology. ",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
-      },
-      {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
-      }
-    ]
+      "address": "",
+      "postalCode": "",
+      "city": "Brisbane",
+      "countryCode": "AU",
+      "region": "QLD"
+    }
   },
   "work": [
+    {
+      "company": "Pied Piper",
+      "position": "CEO/President",
+      "website": "http://piedpiper.com",
+      "startDate": "2013-12-01",
+      "endDate": "2014-12-01",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
+    },
+    {
+      "company": "Pied Piper",
+      "position": "CEO/President",
+      "website": "http://piedpiper.com",
+      "startDate": "2013-12-01",
+      "endDate": "2014-12-01",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
+    },
+    {
+      "company": "Pied Piper",
+      "position": "CEO/President",
+      "website": "http://piedpiper.com",
+      "startDate": "2013-12-01",
+      "endDate": "2014-12-01",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
+    },
     {
       "company": "Pied Piper",
       "position": "CEO/President",
@@ -57,6 +83,23 @@
   ],
   "education": [
     {
+      "institution": "Udacity",
+      "area": "Virtual Reality",
+      "studyType": "Nanodegree",
+      "startDate": "2016-10",
+      "endDate": "2017-02"
+    },{
+      "institution": "Queensland University of Technology",
+      "area": "Information Technology",
+      "studyType": "Master",
+      "startDate": "2014-07-28",
+      "endDate": "2016-05",
+      "gpa": "5.875",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"
+      ]
+    },{
       "institution": "University of Oklahoma",
       "area": "Information Technology",
       "studyType": "Bachelor",
