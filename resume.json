@@ -92,24 +92,24 @@
       "institution": "Queensland University of Technology",
       "area": "Information Technology",
       "studyType": "Master",
-      "startDate": "2014-07-28",
+      "startDate": "2014-07",
       "endDate": "2016-05",
       "gpa": "5.875",
       "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
+        "Final Year Project - 7",
+        "Business Process Management - 7",
+        "Applied Cryptology and Network Security - 7",
+        "Mobile and Pervasive Systems - 6",
+        "Internationalization of software - 6",
+        "Data Manipulation - 6"
       ]
     },{
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
+      "institution": "Goa University",
+      "area": "Engineering (I.T.)",
       "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
-      ]
+      "startDate": "2010-06",
+      "endDate": "2006-07",
+      "gpa": "4.0"
     }
   ],
   "awards": [
