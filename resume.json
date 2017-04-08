@@ -201,7 +201,7 @@
         }
       ],
       "participation": [
-        "Past member of QUT Connectors who help students to transition into university life."
+        "Past member of QUT Connectors to help students transition into university life."
       ],
       "awards": [{
         "title": "Dean's list for Excellent Academic Performance",
@@ -215,7 +215,9 @@
       "startDate": "2010-06-01",
       "endDate": "2006-07-01",
       "gpa": "4.0 on 7",
-      "participation": ["Competed in Student Driving Robotics Competition  CVRDE, Chennai, India."]
+      "participation": [
+        "Competed in Student Driving Robotics Competition  CVRDE, Chennai, India."
+        ]
     }
   ],
   "skills": [{
