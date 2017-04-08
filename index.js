@@ -3,6 +3,9 @@ var path = require('path');
 var Handlebars = require("handlebars");
 
 function render(resume) {
+	var private_data = JSON.parse(fs.readFileSync(__dirname + "/private_data.json", "utf-8"));
+	resume.basics.phone = private_data.basics.phone;
+	
 	var css = fs.readFileSync(__dirname + "/style.css", "utf-8");
 	var tpl = fs.readFileSync(__dirname + "/resume.hbs", "utf-8");
 	var partialsDir = path.join(__dirname, 'partials');

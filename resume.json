@@ -94,16 +94,16 @@
       "institution": "Udacity",
       "area": "Virtual Reality",
       "studyType": "Nanodegree",
-      "startDate": "2016-10",
-      "endDate": "2017-02"
+      "startDate": "2016-10-01",
+      "endDate": "2017-02-01"
     },
     {
       "institution": "Queensland University of Technology",
       "area": "Information Technology",
       "studyType": "Master",
-      "startDate": "2014-07",
-      "endDate": "2016-05",
-      "gpa": "5.875",
+      "startDate": "2014-07-01",
+      "endDate": "2016-05-01",
+      "gpa": "5.875 on 7",
       "courses": [
         "Final Year Project - 7",
         "Business Process Management - 7",
@@ -116,9 +116,9 @@
       "institution": "Goa University",
       "area": "Engineering (I.T.)",
       "studyType": "Bachelor",
-      "startDate": "2010-06",
-      "endDate": "2006-07",
-      "gpa": "4.0"
+      "startDate": "2010-06-01",
+      "endDate": "2006-07-01",
+      "gpa": "4.0 on 7"
     }
   ],
   "awards": [{
